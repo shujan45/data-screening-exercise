@@ -1,4 +1,4 @@
-This repository consistd of code done in R language for Tidying and Visualizing an Immigration Detention Dataset.
+This repository consists of code done in R language for Tidying and Visualizing an Immigration Detention Dataset.
 In order to better understanding of the exercise, I have done different part of tasks in different R files like one file name A.Data Cleaning has data cleaning related code only, in similar way B.Analysis has task and code used to analyse the dataset and find top 10 detention dacilities and same goes for C.Visualize where code related to visualization is written.
 For the better understanding and easiness I have another file where I have completed all the tasks mentioned in the exercise at one place which can be found in file named "Tidying and Visualizing an Immigration Detention Dataset".
 
